@@ -60,7 +60,7 @@ void resultado() {
 }
 
 int main() {
-
+//
   setlocale(LC_ALL, "Portuguese");
   printf("Bem vindo ao controle de abastecimento de aeronaves.\n\n");
   leitura();
